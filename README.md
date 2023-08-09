@@ -30,7 +30,7 @@ My name is Hardiyanto ![](https://komarev.com/ghpvc/?username=dwiHard)
 ### 🎵 Spotify Status
 <hr> 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hardiyantomilan1899-sg&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=hardiyantomilan1899-sg&redirect=true)<br>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hardiyantomilan1899-sg&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)<br>
 
 [<img src="https://github.com/dwiHard/dwiHard/blob/main/btn-spotify.png" width="180">](https://spotify-github-profile.vercel.app/api/login)<br>
 
