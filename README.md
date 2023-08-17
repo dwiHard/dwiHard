@@ -16,16 +16,6 @@ My name is Hardiyanto ![](https://komarev.com/ghpvc/?username=dwiHard)
   ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
   ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
   
-## Feature
-- Problem Solved Linux ✨
-- Cheet Sheet Vim ✨
-- Cheet Sheet Web Server ✨
-- Cheet Sheet MySQL ✨
-- Cheet Sheet Apache (HTTP Client) ✨
-- Reference Github Project ✨
-- Reference Link Web ✨
-- And More <a href="https://github.com/dwiHard/five_byte.github.io"> Here </a> For More
-
 
 ### 🎵 Spotify Status
 <hr> 
@@ -51,17 +41,6 @@ My name is Hardiyanto ![](https://komarev.com/ghpvc/?username=dwiHard)
 
 
 <br>
-
-### 📊 My Github Stat
-<hr>
-
-
-![DwiHard GitHub stats](https://github-readme-stats.vercel.app/api?username=dwiHard&show_icons=true&theme=gradient)
-
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/dwiHard/five_byte.github.io" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dwiHard&repo=five_byte.github.io&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <b>Medium Posts</b>
 
